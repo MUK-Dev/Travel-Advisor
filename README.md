@@ -1,3 +1,5 @@
+## Made using React, Material UI, Google Maps & Places Api, Restaurnts API from Rapid API 
+![alt text](https://github.com/MUK-Dev/Travel-Advisor/blob/master/public/TravelAdvisorDemo.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
